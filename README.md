@@ -10,7 +10,7 @@ _______________
 
 Flutter Yeti was develope entirely using Flutter/Dart without engines/libraries.
 
-[![Flutter Yeti](https://i.imgur.com/DGgfue3.gif)](https://github.com/mkiisoft/flutter-yeti "Flutter Yeti")
+[![Flutter Yeti](/assets/images/yeti.gif)](https://github.com/mkiisoft/flutter-yeti "Flutter Yeti")
 
 # Install 🤓 💻
 _______________
