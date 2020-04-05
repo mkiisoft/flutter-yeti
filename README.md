@@ -1,16 +1,41 @@
-# yeti
+# Flutter Yeti
 
-Yeti Animation
+Flutter Yeti is an example of several animation created for Flutter Web: Hover mouse animation, PWA, assets animation, between others.
+_______________
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mkiisoft/RxLoading) [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0)](https://github.com/mkiisoft/flutter-yeti) [![Dart](https://img.shields.io/badge/language-dart-blue.svg)](https://github.com/mkiisoft/taphero) [![Flutter](https://img.shields.io/badge/framework-Flutter-blue.svg)](https://github.com/mkiisoft/flutter-yeti) [![Desktop](https://img.shields.io/badge/platform-Desktop-lightgrey.svg)](https://github.com/mkiisoft/flutter-yeti)
+_______________
 
-## Getting Started
+# Screen capture 📸
+_______________
 
-This project is a starting point for a Flutter application.
+Flutter Yeti was develope entirely using Flutter/Dart without engines/libraries.
 
-A few resources to get you started if this is your first Flutter project:
+[![Flutter Yeti](https://i.imgur.com/DGgfue3.gif)](https://github.com/mkiisoft/flutter-yeti "Flutter Yeti")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Install 🤓 💻
+_______________
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Download/Clone repo
+ - Open with Android Studio / IntelliJ / VS Code
+ - Web:
+    - Connect Device > Run
+    - Create Emulator > Run
+    - Command (terminal): flutter run -d chrome
+
+# Features & Improvements 👷‍♂️ 👷‍♀️
+_______________
+
+  - Create a PR for new Features / Improvements
+  - Create a Ticket for highlight Issues / Bugs
+_______________
+
+# Try it now 🌎
+_______________
+
+## LINK: https://flutter-yeti.web.app
+
+# Contact Links 🔗 🎮
+_______________
+
+## Twitter [GeekMZ](https://www.twitter.com/geekmz)
+## Medium [@MkiiSoft](https://medium.com/@mkiisoft)
