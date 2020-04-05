@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Yeti Animation">
+  <meta name="author" content="Mariano Zorrilla">
+  <meta name="keywords" content="Flutter, Yeti, Animation, Web">
+  <title>Yeti</title>
+  <link rel="manifest" href="/manifest.json">
+
+  <!-- meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="yeti">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/icons/Icon-192.png">
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@geekmz"/>
+  <meta name="twitter:title" content="Yeti"/>
+  <meta name="twitter:description" content="Yeti Animation"/>
+  <meta name="twitter:image" content="https://firebasestorage.googleapis.com/v0/b/flutter-yeti.appspot.com/o/yeti.png?alt=media"/>
+  <meta property="og:url" content="https://flutter-yeti.web.app"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="Yeti"/>
+  <meta property="og:description" content="Yeti Animation"/>
+  <meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/flutter-yeti.appspot.com/o/yeti.png?alt=media"/>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js');
+      });
+    }
+  </script>
+  <script src="main.dart.js" type="application/javascript"></script>
+</body>
+</html>
