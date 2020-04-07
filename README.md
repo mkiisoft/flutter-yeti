@@ -11,6 +11,7 @@ _______________
 Flutter Yeti was develope entirely using Flutter/Dart without engines/libraries.
 
 [![Flutter Yeti](/assets/images/yeti.gif)](https://github.com/mkiisoft/flutter-yeti "Flutter Yeti")
+_______________
 
 # Install 🤓 💻
 _______________
@@ -21,6 +22,8 @@ _______________
     - Connect Device > Run
     - Create Emulator > Run
     - Command (terminal): flutter run -d chrome
+
+_______________
 
 # Features & Improvements 👷‍♂️ 👷‍♀️
 _______________
@@ -34,16 +37,19 @@ _______________
 
 ## LINK: https://flutter-yeti.web.app
 
+
+_______________
 # Contact Links 🔗
 _______________
 
 ## Twitter [GeekMZ](https://www.twitter.com/geekmz)
 ## Medium [@MkiiSoft](https://medium.com/@mkiisoft)
 
+_______________
 # License 👩‍💼👮‍♂️
 _______________
 
-MIT License
+```MIT License
 
 Copyright (c) 2020 Mariano Zorrilla
 
