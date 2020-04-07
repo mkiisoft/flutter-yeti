@@ -2,7 +2,7 @@
     "name": "Yeti",
     "short_name": "Yeti",
     "start_url": ".",
-    "display": "minimal-ui",
+    "display": "fullscreen",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "Yeti Animation",
